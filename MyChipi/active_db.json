@@ -1,0 +1,10 @@
+{
+  "db_dir": "chroma_20260919_104503_943873",
+  "embed_model": "bge-m3",
+  "collection": "class_rag",
+  "chunk_count": 579,
+  "source": "Number_Theory_for_Undergraduate_Algebra.pdf",
+  "pdf_sha256": "d995cd1f647d293646055d8c4e7631200b6a923bffaea92d30b642323ad97e5c",
+  "chunk_size": 700,
+  "chunk_overlap": 100
+}
